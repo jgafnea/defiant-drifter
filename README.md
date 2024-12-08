@@ -8,10 +8,7 @@ OpenSCAP is a security tool used to assess policy compliance with standards like
 
 ## Usage
 
-1. Install `vagrant`
-2. Clone project
-3. Run `make`
-
-## Non-usage
-
-1. View the included [report.html](https://github.com/jgafnea/defiant-drifter/blob/main/report.html)
+1. Install `vagrant`, clone the project, and cd into the project directory
+2. Run `make`
+3. View report
+4. Run `make down`
